@@ -30,7 +30,7 @@ import {
                         <Collapse isOpen={this.state.isOpen} navbar>
                             <Nav className='ml-auto' navbar>
                                 <NavItem>
-                                    <NavLink href="https://wikmeister.com">Personal Site</NavLink>
+                                    <NavLink href="https://pureargancosmetics.com">Personal Site</NavLink>
                                 </NavItem>
                             </Nav>
                         </Collapse>
